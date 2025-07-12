@@ -1,16 +1,38 @@
-# anketdemoapp
+# Anket Demo App – Flutter Survey Application
 
-A new Flutter project.
+This is a simple **Flutter application** that demonstrates how to build a basic survey (questionnaire) app. It allows users to respond to multiple-choice questions and see the result instantly.
+
+---
+
+## Features
+
+- Display survey questions
+- Multiple-choice options using `RadioListTile`
+- Submit answer and get feedback via `AlertDialog`
+- Easy to expand with more questions
+- Clean UI using Flutter's Material widgets
+
+---
+
+## Tech Stack
+
+- **Flutter** (Dart)
+- `StatefulWidget` for dynamic state handling
+- `ListView`, `RadioListTile`, `AlertDialog` usage
+- Material Design UI components
+
+---
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+### Prerequisites
 
-A few resources to get you started if this is your first Flutter project:
+- Flutter SDK installed  
+- Android Studio, VS Code, or any Flutter-compatible IDE
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+### Installation Steps
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/OsmanGundogdu/anketdemoapp.git
+   cd anketdemoapp
