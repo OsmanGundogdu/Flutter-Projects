@@ -1,16 +1,37 @@
-# android_studio_projelerim
+# Student Information System – Flutter App
 
-A new Flutter project.
+This is a basic **Flutter application** that allows users to input and view student information. It is ideal for beginners looking to practice state management, form handling, and UI building in Flutter.
+
+---
+
+## Features
+
+- Add student information (e.g., name, age, department)
+- Display a list of saved students
+- Real-time UI update using `setState()`
+- Clean Material Design UI
+
+---
+
+## Tech Stack
+
+- **Flutter** (Dart)
+- Stateless & Stateful widgets
+- `TextField`, `ElevatedButton`, `ListView` usage
+- Local state management with `setState()`
+
+---
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+### Prerequisites
 
-A few resources to get you started if this is your first Flutter project:
+- Flutter SDK installed ([Installation Guide](https://flutter.dev/docs/get-started/install))
+- Android Studio, VS Code, or compatible IDE
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+### Installation Steps
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/OsmanGundogdu/student_information_system.git
+   cd student_information_system
