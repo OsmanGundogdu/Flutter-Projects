@@ -1,16 +1,36 @@
-# http_demo
+# http_demo – Flutter HTTP Request Demo
 
-A new Flutter project.
+This Flutter project demonstrates how to perform basic HTTP GET requests to fetch JSON data from a remote API using the [`http`](https://pub.dev/packages/http) package.
+
+---
+
+## Features
+
+- Fetch data asynchronously via HTTP GET
+- Parse JSON responses
+- Display fetched data in a Flutter UI
+- Loading indicators and error handling
+
+---
+
+## Technologies
+
+- Flutter (Dart)
+- `http` package for REST API calls
+- `FutureBuilder` for async UI updates
+
+---
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+### Prerequisites
 
-A few resources to get you started if this is your first Flutter project:
+- Flutter SDK installed
+- IDE like Android Studio, VS Code
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+### Installation Steps
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/OsmanGundogdu/http_demo.git
+   cd http_demo
