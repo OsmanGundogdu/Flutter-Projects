@@ -2,7 +2,7 @@
 
 This repo includes the directories below:
 
-- [anketdomeapp](./anketdomeapp)
+- [anketdemoapp](./anketdemoapp)
 - [bloc_sample](./bloc_sample)
 - [http_demo](./http_demo)
 - [sqflite_demo](./sqflite_demo)
