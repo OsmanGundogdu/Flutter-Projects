@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "347874437245",
+    "firebase_url": "https://anket-849be-default-rtdb.firebaseio.com",
+    "project_id": "anket-849be",
+    "storage_bucket": "anket-849be.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:347874437245:android:89f1b2baacc331f324a914",
+        "android_client_info": {
+          "package_name": "meb.com"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA14m07qt3TzARmstVA439M_6aq2CK-Kgg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
