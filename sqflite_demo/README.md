@@ -1,16 +1,39 @@
-# sqflite_demo
+# sqflite_demo – Flutter SQLite CRUD App
 
-A new Flutter project.
+This Flutter project demonstrates how to perform local database operations using the [`sqflite`](https://pub.dev/packages/sqflite) package. It includes basic CRUD operations: create, read, update, and delete records.
+
+---
+
+## Features
+
+- Add new entries to the database
+- List all saved records
+- Edit existing data
+- Delete specific records
+- Real-time UI updates
+
+---
+
+## Tech Stack
+
+- **Flutter** (Dart)
+- **sqflite** – SQLite plugin for Flutter
+- **path_provider** – For database file path resolution
+- **Material Design** UI
+
+---
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+### Prerequisites
 
-A few resources to get you started if this is your first Flutter project:
+- Flutter SDK installed ([Flutter Install Guide](https://docs.flutter.dev/get-started/install))
+- Android Studio, VS Code, or any Flutter-compatible IDE
+- Emulator or physical device
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+### Steps
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/OsmanGundogdu/sqflite_demo.git
+   cd sqflite_demo
